@@ -12,5 +12,5 @@ What The Read Me Says In The File.
 
 
 Usage:
-You Could Use For When Your Pc Starts Closing The Windows That Automaticaly Open Without Your Consent...
+You Could Use For When Your Pc Starts Opening Apps & Softwares Without Your Consent...
 
