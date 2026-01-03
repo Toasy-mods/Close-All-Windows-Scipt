@@ -10,3 +10,7 @@ What The Read Me Says In The File.
 
 # IF YOU DO NOT UNDERSTAND LOOK AT FILE NAMED:"LOOK AT ME"
 
+
+Usage:
+You Could Use For When Your Pc Starts Closing The Windows That Automaticaly Open Without Your Consent...
+
